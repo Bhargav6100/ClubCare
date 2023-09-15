@@ -1,2 +1,7 @@
 This Project is intended to run locally through XAMPP as it was a university project,I have hosted it locally in my system and presented it in the university
-To run this project in your device
+To run this project in your device:-
+1)install XAMPP
+2)Transfer the entire project to the htdocs folder of XAMPP folder
+3)Start the XAMPP control panel's Apache and MySQL
+4)Now open any browser and type localhost/FOLDER_NAME
+REFERENCE:https://timetoprogram.com/run-php-project-xampp/
